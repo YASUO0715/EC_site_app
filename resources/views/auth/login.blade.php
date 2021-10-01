@@ -1,4 +1,5 @@
 <x-guest-layout>
+      {{-- //ファイル名(auth-card) コンポーネントの中 --}}
     <x-auth-card>
         <x-slot name="logo">
             <a href="/">
